@@ -4,5 +4,4 @@
 <h2>Author - Shubham Jain </h2>
 <br><br>
 <h3>1 - PROJECT</h3>
-The first project was a simple Python programming project on ATM Management including basic conditional statements if/else/elif.
-The user was provided with multiple options
+The first project involved creating a Python program for ATM Management, integrating essential conditional statements like if/else/elif. Users were presented with a variety of options to facilitate smooth navigation and interaction.
